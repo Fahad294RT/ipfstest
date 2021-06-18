@@ -1,0 +1,5 @@
+Custom gateway
+https://stackoverflow.com/questions/56213224/how-to-start-the-api-gateway-when-starting-a-js-ipfs-node
+
+Start
+https://docs.ipfs.io/reference/js/api/#ipfs-and-javascript
